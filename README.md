@@ -1,4 +1,5 @@
-<img src="images/thomas Banner.png">
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/d53527e2-9bfb-4015-b0fb-bf8c1713e718" />
+
 
 # <img src="animated/hands.gif" height="40" /> **_Hey, Thomas Rens_** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" /> <img src="images/react.png" style="height: 40px;" />
 
